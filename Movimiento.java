@@ -1,9 +1,8 @@
 package proyecto;
 
 public class Movimiento {
-	int ataque;
-	int defensa;
-	int modifVelocidad;
-	int modifVida;
+	String nombre;
+	String descripcion; 
+	int velocidad;
 
 }
