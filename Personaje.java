@@ -1,6 +1,8 @@
 package proyecto;
 
 public abstract class Personaje {
+	String nombre;
+	String descripcion;
 	int health;
 	int baseAtk;
 	int defensa;
